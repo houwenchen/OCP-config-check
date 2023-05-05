@@ -1,0 +1,8 @@
+{
+    "sship": "10.69.72.10",
+    "user": "coretest",
+    "password": "system123test",
+    "tenantusernumber": 5,
+    "netype": "vCU",
+    "ptpinterface": "ens37"
+}

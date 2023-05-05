@@ -1,0 +1,2 @@
+2023/02/10 14:03:49 globalobj.go:51: os.ReadFile err:  open ./conf/config.json: The system cannot find the path specified.
+2023/02/10 14:03:49 globalobj.go:107: {"sship":"0.0.0.0","user":"core","password":"system123","tenantusernumber":1,"ptpinterface":"ens43","netype":"vDU","scriptsversion":"2.27.0","conffilepath":"./conf/config.json"}

@@ -1,0 +1,3 @@
+2023/03/03 15:10:25 check.go:26: --------start check_mtu() scripts--------
+2023/03/03 15:10:25 check.go:35: --------mtu info is 1500--------
+2023/03/03 15:10:25 check.go:43: mtu is not equal 1500

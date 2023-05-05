@@ -1,0 +1,9 @@
+{
+    "sship": "10.69.72.110",
+    "user": "core",
+    "password": "system123",
+    "tenantusernumber": 2,
+    "netype": "vDU",
+    "ptpinterface": "ens35f0",  
+    "scriptsversion": "2.27.0"
+}

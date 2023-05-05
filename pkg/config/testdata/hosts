@@ -1,0 +1,8 @@
+[ocp]
+
+[ocp:vars]
+ansible_user     =
+ansible_password = 
+
+[all:vars]
+ansible_ssh_common_args = -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no -o ServerAliveInterval=60 -o ControlMaster=auto -o ControlPersist=120s

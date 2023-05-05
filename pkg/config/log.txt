@@ -1,0 +1,5 @@
+2023/02/10 13:29:49 globalobj.go:51: os.ReadFile err:  open ./conf/config.json: The system cannot find the path specified.
+2023/02/10 13:29:49 config.go:49: --------start download infra-oam scripts--------
+2023/02/10 13:29:49 config.go:43: command exec failed, err : exit status 1
+2023/02/10 13:29:49 config.go:58: --------start check infra-oam scripts files and tar files--------
+2023/02/10 13:29:49 config.go:43: command exec failed, err : exit status 1
